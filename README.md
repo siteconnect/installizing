@@ -1,1 +1,1 @@
-# installizing
+install izing
